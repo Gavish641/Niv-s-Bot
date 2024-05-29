@@ -1,0 +1,24 @@
+{
+    "welcomeChannel": "1195752861645156362",
+    "verifyChannelId": "1195753179107823698",
+    "serverId": "1195747921925247086",
+    "memberId": "1195752954486063135",
+    "boostsChannelId": "1195753190856081529",
+    "sugChannelId": "1166778132498485268",
+    "commandsChannelId": "1166778131064049774",
+    "muteRoleId": "1195753093493698681",
+    "ticketBlockRoleId": "1195752973251383308",
+
+    "supportParent": "1212148442772676688",
+    "purchaseParent": "1212148501354381412",
+    
+    "bugChannelId": "1166778134025224333",
+
+    "customerRole": "1195752994394882178",
+
+    "ticketLogs": "1195753509476368384",
+
+    "allowlistInfo": "1166781437979152414",
+    
+    "receiptsChannel": "1195753670898356414"
+}
